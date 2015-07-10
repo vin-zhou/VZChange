@@ -1,0 +1,1 @@
+PODS_VZ_MMDRAWERCONTROLLER_OTHER_LDFLAGS = -framework "QuartzCore"
